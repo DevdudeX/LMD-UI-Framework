@@ -18,12 +18,12 @@ internal class ObjectReferenceManager
 	}
 
 
-	public GameObject _mainMenuVersionLabel;
-	public TextMeshProUGUI _versionLabelTMP;
+	GameObject _mainMenuVersionLabel;
+	TextMeshProUGUI _versionLabelTMP;
 
-	public GameObject _mainMenuScreen;
-	public GameObject _settingsScreen;
-	public GameObject _mainMenuOptionsBtn;
+	GameObject _mainMenuScreen;
+	GameObject _settingsScreen;
+	GameObject _mainMenuOptionsBtn;
 
 	// Custom
 	GameObject _modMenuBtn;
